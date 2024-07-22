@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm currently a 2nd-semester student pursuing a Ba
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - 🛠️ **Skills:** Procedural Programming (PF), Object-Oriented Programming (OOP), Web Development, UI/UX Design with Figma
-- 🔗 **LinkedIn:** [Aliza Yasser](https://www.linkedin.com/in/aliza-yasser-479545295/)
+- 🔗 **LinkedIn:** [Aliza Yasser](https://www.linkedin.com/in/AlizaYasser/)
 
 ## 📫 Get in Touch
 
