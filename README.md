@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm currently a 3rd-semester student pursuing a Ba
 
 ## 🌟 About Me
 
-- 🎓 **Education:** 2nd Semester BSCS Student at FAST NUCES Islamabad
+- 🎓 **Education:** 3rd Semester BSCS Student at FAST NUCES Islamabad
 - 💻 **Programming Languages:** 
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
