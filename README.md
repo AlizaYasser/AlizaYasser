@@ -1,6 +1,6 @@
 # Hi, I'm Aliza Yasser! 👋
 
-Welcome to my GitHub profile! I'm currently a 2nd-semester student pursuing a Bachelor's degree in Computer Science at FAST NUCES Islamabad. I have a passion for coding and design, and I'm excited to share my projects and skills with you.
+Welcome to my GitHub profile! I'm currently a 3rd-semester student pursuing a Bachelor's degree in Computer Science at FAST NUCES Islamabad. I have a passion for coding and design, and I'm excited to share my projects and skills with you.
 
 ## 🌟 About Me
 
