@@ -1,23 +1,32 @@
-# Hi, I'm Aliza Yasser! 👋
+---
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/welcome-banner-welcome-banner-clipart_677155-113.jpg?w=1380" alt="Welcome Banner" width="100%">
+</p>
 
-Welcome to my GitHub profile! I'm currently a 3rd-semester student pursuing a Bachelor's degree in Computer Science at FAST NUCES Islamabad. I have a passion for coding and design, and I'm excited to share my projects and skills with you.
+<h1 align="center">I'm Aliza Yasser!</h1>
+<h2 align="center">I am a CS Sophomore at FAST NUCES</h2>
 
-## 🌟 About Me
 
-- 🎓 **Education:** 3rd Semester BSCS Student at FAST NUCES Islamabad
-- 💻 **Programming Languages:** 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- 🛠️ **Skills:** Procedural Programming (PF), Object-Oriented Programming (OOP), Web Development, UI/UX Design with Figma
-- 🔗 **LinkedIn:** [Aliza Yasser](https://www.linkedin.com/in/AlizaYasser/)
 
-## 📫 Get in Touch
+### Languages I work with
 
-Feel free to reach out to me through LinkedIn or check out my projects on GitHub. I'm always open to connecting with fellow developers and exploring new opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aliza-yasser-479545295/)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
 
 ---
 
-Thank you for visiting my profile!
+### Get in Touch
+
+<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 50%; margin: auto;">
+  <p><b>📩 Email:</b> i230501@isb.nu.edu.pk</p>
+  <p><a href="https://www.linkedin.com/in/AlizaYasser/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+</div>
+
+---
+
