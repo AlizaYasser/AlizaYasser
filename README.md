@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">I'm Aliza Yasser!</h1>
-<h2 align="center">I am a CS Sophomore at FAST NUCES</h2>
+<h2 align="center">I am a CS Junior at FAST NUCES</h2>
 
 
 
