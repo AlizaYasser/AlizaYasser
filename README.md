@@ -1,6 +1,6 @@
----
+
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/welcome-banner-welcome-banner-clipart_677155-113.jpg?w=1380" alt="Welcome Banner" width="100%">
+  <img src="https://i.pinimg.com/originals/fc/16/87/fc1687241e0c4bf3d58f95f33d752635.gif" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">I'm Aliza Yasser!</h1>
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </p>
 
 ### Programming Languages
