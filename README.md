@@ -1,42 +1,62 @@
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/fc/16/87/fc1687241e0c4bf3d58f95f33d752635.gif" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">I'm Aliza Yasser!</h1>
-<h2 align="center">I am a CS Junior at FAST NUCES</h2>
+<h1 align="center">Hi, I'm Aliza Yasser.</h1>
 
-### UI / Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7FE1A8&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%C2%B7+JS+%C2%B7+UI%2FUX;Figma+Designs+%E2%86%92+Production+Code;CS+Junior+%40+FAST-NUCES" alt="Typing SVG" />
 </p>
 
-### Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white">
+  7th Semester CS Student @ FAST-NUCES
 </p>
 
-### Game Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <a href="https://www.linkedin.com/in/AlizaYasser/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:i230501@isb.nu.edu.pk">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### Get in Touch
+### Tech Stack
 
-<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 50%; margin: auto;">
-  <p><b>📩 Email:</b> i230501@isb.nu.edu.pk</p>
-  <p><a href="https://www.linkedin.com/in/AlizaYasser/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+**UI / Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,tailwind,vue,bootstrap" />
+</p>
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,c#" />
+</p>
+
+**Backend / Data**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,mysql,mongodb,nodejs" />
+</p>
+
+**Tools & Game Dev**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,unity,docker,linux,vscode" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlizaYasser&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlizaYasser&theme=dark&hide_border=true&background=0d1117" />
+</p>
+
+---
+
+<div align="center" style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; background-color: #0d1117; width: 55%; margin: auto;">
+  <p>📩 <b>i230501@isb.nu.edu.pk</b></p>
+  <p>Open to frontend & UI/UX internship opportunities</p>
 </div>
-
----
-
