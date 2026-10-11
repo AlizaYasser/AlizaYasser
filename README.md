@@ -58,5 +58,4 @@
 
 <div align="center" style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; background-color: #0d1117; width: 55%; margin: auto;">
   <p>📩 <b>i230501@isb.nu.edu.pk</b></p>
-  <p>Open to frontend & UI/UX internship opportunities</p>
 </div>
